@@ -1,7 +1,7 @@
 {
   "version": "1.1.8",
   "downloadUrl": "https://github.com/marotk/HWTranslate-Updates/releases/download/v1.1.8/HWTranslate.dll",
-  "sha256": "13431C8ACB32AFC82FED12479D4E03CC382EC0B915DA4ACA4E45E879F3B3B38C",
+  "sha256": "822F3C6B0CA75944071816D1D4A8D7A1C6B0241CF866CAAD05569FB38A8B36C3",
   "required": false,
   "notes": "Initial moderator helper plugin release."
 }
